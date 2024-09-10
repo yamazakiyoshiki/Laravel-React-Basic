@@ -4,9 +4,9 @@ export const PROJECT_STATUS_CLASS_MAP = {
   completed: "bg-green-500",
 };
 export const PROJECT_STATUS_TEXT_MAP = {
-  pending: "未処理",
-  in_progress: "進行中",
-  completed: "完了",
+  pending: "Pending",
+  in_progress: "In Progress",
+  completed: "Completed",
 };
 export const TASK_STATUS_CLASS_MAP = {
   pending: "bg-amber-500",
@@ -14,9 +14,9 @@ export const TASK_STATUS_CLASS_MAP = {
   completed: "bg-green-500",
 };
 export const TASK_STATUS_TEXT_MAP = {
-  pending: "未処理",
-  in_progress: "進行中",
-  completed: "完了",
+  pending: "Pending",
+  in_progress: "In Progress",
+  completed: "Completed",
 };
 export const TASK_PRIORITY_CLASS_MAP = {
   low: "bg-gray-600",
